@@ -36,13 +36,13 @@ Use `npx expo start --clear` if Metro's cache needs to be reset.
 
 ## Available scripts
 
-| Command | Description |
-| --- | --- |
-| `npm start` | Start the Expo development server |
-| `npm run android` | Start the app for Android |
-| `npm run ios` | Start the app for iOS |
-| `npm run web` | Start the web version |
-| `npm run lint` | Run Expo linting |
+| Command           | Description                       |
+| ----------------- | --------------------------------- |
+| `npm start`       | Start the Expo development server |
+| `npm run android` | Start the app for Android         |
+| `npm run ios`     | Start the app for iOS             |
+| `npm run web`     | Start the web version             |
+| `npm run lint`    | Run Expo linting                  |
 
 ## Project structure
 
